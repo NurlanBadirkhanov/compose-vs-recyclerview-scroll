@@ -1,4 +1,4 @@
-package dev.p1oneer.scrollcomparison.domain
+package com.nurlanbadirkhanov.scrollcomparison.domain
 
 import kotlinx.coroutines.flow.Flow
 

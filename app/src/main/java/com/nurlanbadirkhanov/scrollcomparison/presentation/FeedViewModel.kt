@@ -1,10 +1,10 @@
-package dev.p1oneer.scrollcomparison.presentation
+package com.nurlanbadirkhanov.scrollcomparison.presentation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import dev.p1oneer.scrollcomparison.data.DefaultFeedRepository
-import dev.p1oneer.scrollcomparison.data.FeedRemoteDataSource
-import dev.p1oneer.scrollcomparison.domain.ObserveFeedUseCase
+import com.nurlanbadirkhanov.scrollcomparison.data.DefaultFeedRepository
+import com.nurlanbadirkhanov.scrollcomparison.data.FeedRemoteDataSource
+import com.nurlanbadirkhanov.scrollcomparison.domain.ObserveFeedUseCase
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.map

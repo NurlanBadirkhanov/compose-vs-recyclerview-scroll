@@ -1,4 +1,4 @@
-package dev.p1oneer.scrollcomparison.data
+package com.nurlanbadirkhanov.scrollcomparison.data
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow

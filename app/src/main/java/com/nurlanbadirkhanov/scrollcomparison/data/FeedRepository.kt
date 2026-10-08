@@ -1,7 +1,7 @@
-package dev.p1oneer.scrollcomparison.data
+package com.nurlanbadirkhanov.scrollcomparison.data
 
-import dev.p1oneer.scrollcomparison.domain.Article
-import dev.p1oneer.scrollcomparison.domain.FeedRepository
+import com.nurlanbadirkhanov.scrollcomparison.domain.Article
+import com.nurlanbadirkhanov.scrollcomparison.domain.FeedRepository
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 

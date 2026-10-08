@@ -1,4 +1,4 @@
-package dev.p1oneer.scrollcomparison.presentation
+package com.nurlanbadirkhanov.scrollcomparison.presentation
 
 import androidx.compose.runtime.Immutable
 

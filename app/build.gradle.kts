@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "dev.p1oneer.scrollcomparison"
+    namespace = "com.nurlanbadirkhanov.scrollcomparison"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "dev.p1oneer.scrollcomparison"
+        applicationId = "com.nurlanbadirkhanov.scrollcomparison"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
