@@ -6,6 +6,10 @@ This is a deliberately small Android sample for discussing a practical question:
 
 It is **not** a claim that one list implementation is universally faster. It keeps the data flow, UI model, row content, and update cadence the same, then lets you switch only the renderer.
 
+## Companion article
+
+[Why I Replaced LazyColumn With RecyclerView on a Critical Android Screen](https://nurlanbadirkhanov.medium.com/why-i-replaced-lazycolumn-with-recyclerview-on-a-critical-android-screen-969a1b21e11d)
+
 ## What is comparable
 
 ```text
