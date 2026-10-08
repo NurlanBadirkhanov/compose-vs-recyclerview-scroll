@@ -118,7 +118,7 @@ That does not mean `RecyclerView` is always faster than `LazyColumn`. Results de
 
 ## How I would validate the choice fairly
 
-For this article, I am preparing a small public sample with two implementations of the same feed:
+For a fair comparison, I would build a small public sample with two implementations of the same feed:
 
 - the same UI models, data source, and `ViewModel`;
 - the same cards and update scenario;
